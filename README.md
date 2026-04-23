@@ -104,6 +104,8 @@ streamlit run app.py
 
 **Naved Shaikh**
 📧 [navedrys@gmail.com](mailto:navedrys@gmail.com)
+📱 7414991107
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-id
 
 ---
 
